@@ -1,0 +1,14 @@
+author = 'uelberbell'
+
+print ('Olá oh merda, eu sou um programa simples e ' 
+       'Eu posso fazer uma soma para você!')
+
+
+print('Digite o primeiro numero para soma:')
+num1 = input()
+print('Digite o segundo numero:')
+num2 = input()
+
+print('resultado da sua soma é:')
+
+print(int(num1) + int(num2))
