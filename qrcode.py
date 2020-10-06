@@ -12,8 +12,8 @@ cdBarras = []
    # if(cdBarras == '0'):
     #    print('SISTEMA ENCERRADO')
      #   break
-print('             ||||||||CONVERTER CÓDIGO DE BARRAS PARA QRCODE||||||||')
-print('             _____________________________________________________\n')
+print('          ||||||||CONVERTER CÓDIGO DE BARRAS PARA QRCODE||||||||')
+print('          _____________________________________________________\n')
 
 #Aqui nós pediremos ao usuário a quantidade de produtos que ele irá inserir 
 n = int (input('Digite a quantidade de produtos que serão lidos: '))
